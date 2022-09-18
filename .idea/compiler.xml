@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="14" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="14" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="14" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="14" />
+      <module name="Connect_Four.Connect_Four-task.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Assertion.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Best_practices.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Log_events.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Proper_tools.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Theory.main" target="14" />
+      <module name="Connect_Four.Topics-Debugging_techniques-What_you_know_about_a_debugger.main" target="14" />
+      <module name="Connect_Four.Topics-Invoking_functions-Lembas.main" target="14" />
+      <module name="Connect_Four.Topics-Invoking_functions-Theory.main" target="14" />
+      <module name="Connect_Four.Topics-Relational_operators-Check_the_value.main" target="14" />
+      <module name="Connect_Four.Topics-Relational_operators-Theory.main" target="14" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="14" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Theory.main" target="14" />
+      <module name="Connect_Four.Topics-Type_conversion-Cutting_the_fraction.main" target="14" />
+      <module name="Connect_Four.Topics-Type_conversion-Existing_functions.main" target="14" />
+      <module name="Connect_Four.Topics-Type_conversion-Overflow_and_crash.main" target="14" />
+      <module name="Connect_Four.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="14" />
+      <module name="Connect_Four.Topics-Type_conversion-Theory.main" target="14" />
+      <module name="Connect_Four.util.main" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

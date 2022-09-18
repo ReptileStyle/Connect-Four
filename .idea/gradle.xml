@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Best practices" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/What you know about a debugger" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Lembas" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Existing functions" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/The superior forces of the Empire" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
